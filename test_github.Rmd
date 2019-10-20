@@ -1,4 +1,5 @@
 ---
+TOr Fibiger
 title: "ESM 206/244 GitHub Testing"
 output: html_document
 ---
@@ -7,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Type your name (or anything else) HERE: 
+Type your name (or anything else) HERE: Tor Fibiger
 
 Here's some code (change the variable names and values):
 ```{r}
