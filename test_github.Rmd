@@ -1,5 +1,5 @@
 ---
-TOr Fibiger
+Tor Fibiger
 title: "ESM 206/244 GitHub Testing"
 output: html_document
 ---
